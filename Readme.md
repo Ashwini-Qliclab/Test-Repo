@@ -1,3 +1,3 @@
 Checking Repo
 
-New Repo
+New Repository
